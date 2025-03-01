@@ -1,2 +1,0 @@
-# valuation-stots
-valuation app
